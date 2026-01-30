@@ -249,8 +249,4 @@ This project demonstrates:
 * Event-driven system design
 * Production-ready Flask structure
 
-Perfect for **assignments, interviews, and portfolios**.
-
 ---
-
-✨ Happy Coding!
